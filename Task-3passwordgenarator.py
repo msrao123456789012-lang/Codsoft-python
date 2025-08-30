@@ -1,5 +1,8 @@
 import random
 import string
+print("==="*20)
+print("Welcome to password genarator 🔑 ")
+print("==="*20)
 digits_len=int(input("enter how many digits to be involved in genarated password:"))
 letter_len=int(input("enter how many letters  to be involved in genarated password:"))
 pun_len=int(input("enter how many punctuations  to be involved in genarated password:"))
